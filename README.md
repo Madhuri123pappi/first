@@ -1,2 +1,2 @@
 # first
-first repo for demo
+first repo for demonstration
